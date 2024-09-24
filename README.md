@@ -1,2 +1,2 @@
-# projeto-janelas
-24/0924
+# prjoeto-login
+um projeto de cadastro e gerenciamento de clientes
